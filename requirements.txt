@@ -50,7 +50,7 @@ defusedxml==0.6.0
 Deprecated==1.2.7
 # diagnostic-analysis==1.11.0
 # diagnostic-common-diagnostics==1.11.0
-diagnostic-updater==1.11.0
+# diagnostic-updater==1.11.0
 distlib==0.3.0
 distro==1.4.0
 distro-info===0.23ubuntu1
