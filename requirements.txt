@@ -20,7 +20,7 @@ bondpy==0.1.11
 breezy==3.0.2
 # Brlapi==0.7.0
 cachetools==4.2.2
-camera-calibration==1.16.0
+# camera-calibration==0.2
 camera-calibration-parsers==1.12.0
 catkin==0.8.10
 catkin-pkg==0.4.24
