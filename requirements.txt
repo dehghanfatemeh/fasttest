@@ -32,7 +32,7 @@ chardet==3.0.4
 charset-normalizer==2.0.9
 Click==7.0
 colorama==0.4.3
-command-not-found==0.3
+# command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 controller-manager==0.19.5
