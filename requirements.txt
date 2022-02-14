@@ -3,7 +3,7 @@ action==1.4.4
 angles==2.0
 anyio==3.4.0
 appdirs==1.4.3
-# apturl==1.0.0
+# apturl==0.5.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.4.1
@@ -16,7 +16,7 @@ backcall==0.2.0
 bcrypt==3.1.7
 bleach==4.1.0
 blinker==1.4
-bondpy==1.8.6
+bondpy==0.1.11
 breezy==3.0.2
 Brlapi==0.7.0
 cachetools==4.2.2
