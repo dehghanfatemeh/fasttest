@@ -3,7 +3,7 @@ action==1.4.4
 angles==2.0
 anyio==3.4.0
 appdirs==1.4.3
-apturl
+# apturl==1.0.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.4.1
