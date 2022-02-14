@@ -22,7 +22,7 @@ breezy==3.0.2
 cachetools==4.2.2
 # camera-calibration==0.2
 # camera-calibration-parsers
-catkin
+# catkin==0.8.10
 catkin-pkg==0.4.24
 catkin-pkg-modules==0.4.24
 cbor==1.0.0
