@@ -18,7 +18,7 @@ bleach==4.1.0
 blinker==1.4
 bondpy==0.1.11
 breezy==3.0.2
-Brlapi==0.7.0
+Brlapi
 cachetools==4.2.2
 camera-calibration==1.16.0
 camera-calibration-parsers==1.12.0
