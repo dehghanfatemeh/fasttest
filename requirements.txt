@@ -36,7 +36,7 @@ colorama==0.4.3
 configobj==5.0.6
 constantly==15.1.0
 # controller-manager==0.19.5
-controller-manager-msgs==0.19.5
+# controller-manager-msgs==0.19.5
 cryptography==2.8
 cupshelpers==1.0
 cv-bridge==1.16.0
