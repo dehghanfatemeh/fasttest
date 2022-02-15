@@ -69,7 +69,7 @@ fastimport==0.9.8
 filelock==3.0.12
 future==0.18.2
 gast==0.3.3
-gazebo_plugins==2.9.2
+# gazebo_plugins==2.9.2
 gazebo_ros==2.9.2
 gencpp==0.6.5
 geneus==3.0.0
