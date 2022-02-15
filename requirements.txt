@@ -251,7 +251,7 @@ rospkg==1.3.0
 # rostest==1.15.14
 # rostopic==1.15.14
 # rosunit==1.15.8
-roswtf==1.15.14
+# roswtf==1.15.14
 rqt-moveit==0.5.10
 rqt-reconfigure==0.5.4
 rqt-robot-dashboard==0.5.8
