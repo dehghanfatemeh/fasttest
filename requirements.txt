@@ -75,7 +75,7 @@ gast==0.3.3
 # geneus==3.0.0
 # genlisp==0.4.18
 # genmsg==0.5.16
-gennodejs==2.0.2
+# gennodejs==2.0.2
 genpy==0.6.15
 google-auth==1.34.0
 google-auth-oauthlib==0.4.5
