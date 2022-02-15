@@ -104,7 +104,7 @@ itsdangerous==2.0.1
 jedi==0.18.1
 Jinja2==3.0.1
 joblib==1.1.0
-joint_state_publisher==1.15.0
+# joint_state_publisher==1.15.0
 joint_state_publisher_gui==1.15.0
 jsonschema==4.3.3
 jupyter==1.0.0
