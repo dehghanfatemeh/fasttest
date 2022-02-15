@@ -296,7 +296,7 @@ simplejson==3.16.0
 sip== 6.5.1
 six==1.14.0
 sklearn==0.0
-smach==2.5.0
+# smach==2.5.0
 smach-ros==2.5.0
 smclib==1.8.6
 sniffio==1.2.0
