@@ -312,7 +312,7 @@ testpath==0.5.0
 testresources==2.0.1
 textblob==0.17.1
 tf==1.0.0
-tf-conversions==1.13.2
+# tf-conversions==1.13.2
 tf2-geometry-msgs==0.7.5
 tf2-kdl==0.7.5
 tf2-py==0.7.5
