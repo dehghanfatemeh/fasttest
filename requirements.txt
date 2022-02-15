@@ -214,7 +214,7 @@ pyzmq==22.3.0
 # qt-dotgraph==0.4.2
 # qt-gui==0.4.2
 # qt-gui-cpp==0.4.2
-qt-gui-py-common==0.4.2
+# qt-gui-py-common==0.4.2
 qtconsole==5.2.2
 QtPy==2.0.0
 regex==2021.11.10
