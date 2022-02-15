@@ -293,7 +293,7 @@ Send2Trash==1.8.0
 # sensor-msgs==1.13.1
 service-identity==18.1.0
 simplejson==3.16.0
-sip==4.19.21
+sip== 6.5.1
 six==1.14.0
 sklearn==0.0
 smach==2.5.0

@@ -22,7 +22,7 @@ def database():
 @app.get("/")
 def root():
    return{"massege":"hello data_scientist."}
-uvicorn --port 5000 --host 127.0.0.1 main:app --reload
+
 @app.get("/data/{limit}")
 def data(limit:int):
     df=pd.read_csv("./data/airports.csv",nrows=limit)
