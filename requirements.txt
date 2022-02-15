@@ -203,7 +203,7 @@ python-dotenv==0.19.2
 python-gitlab==2.0.1
 python-gnupg==0.4.5
 python-multipart==0.0.5
-python-qt-binding==0.4.4
+python-qt-binding==0.3.4
 python-snappy==0.5.3
 pythondialog==3.5.2
 PyTrie==0.2
