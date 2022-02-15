@@ -248,7 +248,7 @@ rospkg==1.3.0
 # rospkg-modules==1.3.0
 # rospy==1.15.14
 # rosservice==1.15.14
-rostest==1.15.14
+# rostest==1.15.14
 rostopic==1.15.14
 rosunit==1.15.8
 roswtf==1.15.14
