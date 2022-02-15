@@ -298,7 +298,7 @@ six==1.14.0
 sklearn==0.0
 # smach==2.5.0
 # smach-ros==2.5.0
-smclib==1.8.6
+# smclib==1.8.6
 sniffio==1.2.0
 starlette==0.16.0
 systemd-python==234
