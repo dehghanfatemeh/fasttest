@@ -198,7 +198,7 @@ pyRFC3339==1.1
 pyrsistent==0.18.0
 # python-apt==2.0.0+ubuntu0.20.4.6
 python-dateutil==2.7.3
-python-debian===0.1.36ubuntu1
+python-debian===0.1.43
 python-dotenv==0.19.2
 python-gitlab==2.0.1
 python-gnupg==0.4.5
