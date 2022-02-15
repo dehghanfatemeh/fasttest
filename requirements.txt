@@ -117,7 +117,7 @@ Keras-Preprocessing==1.1.2
 keyring==18.0.1
 kiwisolver==1.0.1
 langdetect==1.0.9
-language-selector==0.1
+# language-selector==0.1
 laser_geometry==1.6.7
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
