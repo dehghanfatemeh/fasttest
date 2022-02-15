@@ -224,7 +224,7 @@ requests-oauthlib==1.3.0
 requests-unixsocket==0.2.0
 # resource_retriever==1.12.7
 roman==2.0.0
-rosbag==1.15.14
+# rosbag==1.15.14
 rosboost-cfg==1.15.8
 rosclean==1.15.8
 roscreate==1.15.8
