@@ -290,7 +290,7 @@ scikit-learn==1.0.2
 # scipy==1.4.1 
 SecretStorage==2.3.1
 Send2Trash==1.8.0
-sensor-msgs==1.13.1
+# sensor-msgs==1.13.1
 service-identity==18.1.0
 simplejson==3.16.0
 sip==4.19.21
