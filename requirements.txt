@@ -245,7 +245,7 @@ rosinstall-generator==0.1.22
 # rosnode==1.15.14
 # rosparam==1.15.14
 rospkg==1.3.0
-rospkg-modules==1.3.0
+# rospkg-modules==1.3.0
 rospy==1.15.14
 rosservice==1.15.14
 rostest==1.15.14
