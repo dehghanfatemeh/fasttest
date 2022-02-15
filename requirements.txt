@@ -254,7 +254,7 @@ rospkg==1.3.0
 # roswtf==1.15.14
 # rqt-moveit==0.5.10
 # rqt-reconfigure==0.5.4
-rqt-robot-dashboard==0.5.8
+# rqt-robot-dashboard==0.5.8
 rqt-robot-monitor==0.5.13
 rqt-rviz==0.7.0
 rqt_action==0.4.9
