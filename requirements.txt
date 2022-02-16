@@ -112,7 +112,7 @@ nbconvert
 nbformat
 nest-asyncio
 netifaces
-nltk
+# nltk
 nose
 notebook
 numpy
