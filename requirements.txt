@@ -351,7 +351,7 @@ widgetsnbextension==3.5.2
 wordcloud==1.8.1
 wrapt==1.11.2
 wsaccel==0.6.2
-wstool==0.1.18
+wstool==0.0.1
 xacro==1.14.11
 xkit==0.0.0
 zipp==3.7.0
