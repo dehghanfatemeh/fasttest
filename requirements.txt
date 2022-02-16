@@ -31,7 +31,7 @@ constantly
 cryptography
 cycler
 Cython
-dbus-python
+# dbus-python
 debugpy
 decorator
 defer
@@ -106,7 +106,7 @@ mccabe
 mistune
 monotonic
 more-itertools
-mpi4py
+# mpi4py
 nbclient
 nbconvert
 nbformat
@@ -146,12 +146,12 @@ pycairo
 pycountry
 pycparser
 pycryptodomex
-pycups
+# pycups
 pydantic
 pydot
 PyGithub
 Pygments
-PyGObject
+# PyGObject
 PyHamcrest
 PyJWT
 pylint
