@@ -355,4 +355,4 @@ wstool==0.0.1
 xacro==1.13.3
 # xkit==0.0.0
 zipp==3.7.0
-zope.interface==4.7.1
+zope.interface==5.1.0
