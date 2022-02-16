@@ -3,7 +3,6 @@ action==1.4.4
 angles==2.0
 anyio==3.4.0
 appdirs==1.4.3
-# apturl==0.5.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.4.1
@@ -18,13 +17,8 @@ bleach==4.1.0
 blinker==1.4
 bondpy==0.1.11
 breezy==3.0.2
-# Brlapi==0.7.0
 cachetools==4.2.2
-# camera-calibration==0.2
-# camera-calibration-parsers
-# catkin==0.8.10
 catkin-pkg==0.4.24
-# catkin-pkg-modules==0.4.24
 cbor==1.0.0
 certifi==2019.11.28
 cffi==1.15.0
@@ -32,14 +26,9 @@ chardet==3.0.4
 charset-normalizer==2.0.9
 Click==7.0
 colorama==0.4.3
-# command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
-# controller-manager==0.19.5
-# controller-manager-msgs==0.19.5
 cryptography==2.8
-# cupshelpers==1.0
-# cv-bridge==1.16.0
 cycler==0.10.0
 Cython==0.29.14
 dbus-python==1.2.16
@@ -48,9 +37,6 @@ decorator==5.1.1
 defer==1.0.4
 defusedxml==0.6.0
 Deprecated==1.2.7
-# diagnostic-analysis==1.11.0
-# diagnostic-common-diagnostics==1.11.0
-# diagnostic-updater==1.11.0
 distlib==0.3.0
 distro==1.4.0
 distro-info===1.0
@@ -58,8 +44,6 @@ dnspython==2.1.0
 docopt==0.6.2
 docutils==0.16
 dulwich==0.19.15
-# duplicity==0.8.12.0
-# dynamic-reconfigure==1.7.1
 email-validator==1.1.3
 empy==3.3.2
 entrypoints==0.3
@@ -69,18 +53,10 @@ fastimport==0.9.8
 filelock==3.0.12
 future==0.18.2
 gast==0.3.3
-# gazebo_plugins==2.9.2
-# gazebo_ros==2.9.2
-# gencpp==0.6.5
-# geneus==3.0.0
-# genlisp==0.4.18
-# genmsg==0.5.16
-# gennodejs==2.0.2
 genpy==2021.1
 google-auth==1.34.0
 google-auth-oauthlib==0.4.5
 google-pasta==0.2.0
-# gpg===1.13.1-unknown
 grpcio==1.39.0
 gunicorn==20.1.0
 h11==0.12.0
@@ -89,12 +65,10 @@ httplib2==0.14.0
 httptools==0.2.0
 hyperlink==19.0.0
 idna==2.8
-# image-geometry==1.16.0
 importlib-metadata==1.5.0
 importlib-resources==5.4.0
 imutils==0.5.4
 incremental==16.10.1
-# interactive-markers==1.12.0
 ipykernel==6.6.1
 ipython==7.31.0
 ipython-genutils==0.2.0
@@ -104,8 +78,6 @@ itsdangerous==2.0.1
 jedi==0.18.1
 Jinja2==3.0.1
 joblib==1.1.0
-# joint_state_publisher==1.15.0
-# joint_state_publisher_gui==1.15.0
 jsonschema==4.3.3
 jupyter==1.0.0
 jupyter-client==7.1.0
@@ -117,8 +89,6 @@ Keras-Preprocessing==1.1.2
 keyring==18.0.1
 kiwisolver==1.0.1
 langdetect==1.0.9
-# language-selector==0.1
-# laser_geometry==1.6.7
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
@@ -133,7 +103,6 @@ MarkupSafe==2.0.1
 matplotlib==3.1.2
 matplotlib-inline==0.1.3
 mccabe==0.6.1
-# message-filters==1.15.14
 mistune==0.8.4
 monotonic==1.5
 more-itertools==4.2.0
@@ -196,7 +165,6 @@ PyQRCode==1.2.1
 PyQt5==5.14.1
 pyRFC3339==1.1
 pyrsistent==0.18.0
-# python-apt==2.0.0+ubuntu0.20.4.6
 python-dateutil==2.7.3
 python-debian===0.1.43
 python-dotenv==0.19.2
@@ -211,10 +179,6 @@ pytz==2019.3
 pyxdg==0.26
 PyYAML==5.3.1
 pyzmq==22.3.0
-# qt-dotgraph==0.4.2
-# qt-gui==0.4.2
-# qt-gui-cpp==0.4.2
-# qt-gui-py-common==0.4.2
 qtconsole==5.2.2
 QtPy==2.0.0
 regex==2021.11.10
@@ -222,89 +186,25 @@ reportlab==3.5.34
 requests==2.26.0
 requests-oauthlib==1.3.0
 requests-unixsocket==0.2.0
-# resource_retriever==1.12.7
 roman==2.0.0
-# rosbag==1.15.14
-# rosboost-cfg==1.15.8
-# rosclean==1.15.8
-# roscreate==1.15.8 
 rosdep==0.21.0
-# rosdep-modules==0.21.0
 rosdistro==0.8.3
-# rosdistro-modules==0.8.3
-# rosgraph==1.15.14
 rosinstall==0.7.8
-rosinstall-generator==0.1.22
-# roslaunch==1.15.14
-# roslib==1.15.8
-# roslint==0.12.0
-# roslz4==1.15.14
-# rosmake==1.15.8
-# rosmaster==1.15.14
-# rosmsg==1.15.14
-# rosnode==1.15.14
-# rosparam==1.15.14
 rospkg==1.3.0
-# rospkg-modules==1.3.0
-# rospy==1.15.14
-# rosservice==1.15.14
-# rostest==1.15.14
-# rostopic==1.15.14
-# rosunit==1.15.8
-# roswtf==1.15.14
-# rqt-moveit==0.5.10
-# rqt-reconfigure==0.5.4
-# rqt-robot-dashboard==0.5.8
-# rqt-robot-monitor==0.5.13
-# rqt-rviz==0.7.0
-# rqt_action==0.4.9
-# rqt_bag==0.5.1
-# rqt_bag_plugins==0.5.1
-# rqt_console==0.4.11
-# rqt_dep==0.4.12
-# rqt_graph==0.4.14
-# rqt_gui==0.5.2
-# rqt_gui_py==0.5.2
-# rqt_image_view==0.4.16
-# rqt_launch==0.4.9
-# rqt_logger_level==0.4.11
-# rqt_msg==0.4.10
-# rqt_nav_view==0.5.7
-# rqt_plot==0.4.13
-# rqt_pose_view==0.5.11
-# rqt_publisher==0.4.10
-# rqt_py_common==0.5.2
-# rqt_py_console==0.4.10
-# rqt_robot_steering==0.5.12
-# rqt_runtime_monitor==0.5.9
-# rqt_service_caller==0.4.10
-# rqt_shell==0.4.11
-# rqt_srv==0.4.9
-# rqt_tf_tree==0.6.2
-# rqt_top==0.4.10
-# rqt_topic==0.4.13
-# rqt_web==0.4.10
 rsa==4.7.2
-# rviz==1.14.13
 scikit-learn==1.0.2
-# scipy==1.4.1 
 SecretStorage==2.3.1
 Send2Trash==1.8.0
-# sensor-msgs==1.13.1
 service-identity==18.1.0
 simplejson==3.16.0
 sip== 6.5.1
 six==1.14.0
 sklearn==0.0
-# smach==2.5.0
-# smach-ros==2.5.0
-# smclib==1.8.6
 sniffio==1.2.0
 starlette==0.16.0
 systemd-python==234
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.8.0
-# tensorflow==2.2.0
 tensorflow-estimator==2.2.0
 termcolor==1.1.0
 terminado==0.12.1
@@ -312,15 +212,8 @@ testpath==0.5.0
 testresources==2.0.1
 textblob==0.17.1
 tf==1.0.0
-# tf-conversions==1.13.2
-# tf2-geometry-msgs==0.7.5
-# tf2-kdl==0.7.5
-# tf2-py==0.7.5
-# tf2-ros==0.7.5
 threadpoolctl==3.0.0
 toml==0.10.2
-# topic-tools==1.15.14
-# torch==1.4.0
 torchvision==0.1.8
 tornado==6.1
 tqdm==4.62.3
@@ -330,13 +223,8 @@ Twisted==18.9.0
 txaio==2.10.0
 typing_extensions==4.0.1
 u-msgpack-python==2.1
-# ubuntu-advantage-tools==27.6
-# ubuntu-drivers-common==0.0.0
-# ufw==0.36
 ujson==4.3.0
-# unattended-upgrades==0.1
 urllib3==1.25.8
-# usb-creator==0.3.7
 uvicorn==0.15.0
 uvloop==0.16.0
 vcstools==0.1.42
@@ -353,6 +241,5 @@ wrapt==1.11.2
 wsaccel==0.6.2
 wstool==0.0.1
 xacro==1.13.3
-# xkit==0.0.0
 zipp==3.7.0
 zope.interface==5.1.0
