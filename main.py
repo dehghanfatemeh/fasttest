@@ -18,7 +18,6 @@ def database():
         students = pd.read_csv('./data/students.csv')
     return students
 
-
 @app.get("/")
 def root():
    return{"massege":"hello data_scientist."}
@@ -33,9 +32,6 @@ class Student(BaseModel):
     fname: str
     age: int
     lname: str
-
-  
-
 
 @app.post("/create/")
 def create(student:Student):
